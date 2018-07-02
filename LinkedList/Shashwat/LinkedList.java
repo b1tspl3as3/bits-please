@@ -1,16 +1,15 @@
-public class LinkedList{
+class ListNode{
 
-	static class ListNode{
+	int val;
+	ListNode next;
 
-		int val;
-		ListNode next;
-
-		ListNode(int val){
-			this.val  = val;
-			this.next = null;
-		}
+	ListNode(int val){
+		this.val  = val;
+		this.next = null;
 	}
+}
 
+public class LinkedList{
 	// default constructor
 	LinkedList(){
 
