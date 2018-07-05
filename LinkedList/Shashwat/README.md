@@ -8,8 +8,3 @@
     - [Remove Duplicate](https://github.com/b1tspl3as3/bits-please/blob/master/LinkedList/Shashwat/RemoveDuplicateOne.java)
     - [Remove All Duplicate](https://github.com/b1tspl3as3/bits-please/blob/master/LinkedList/Shashwat/RemoveDuplicateTwo.java)
 
-
-# Strings
-
-- ## Algorithms
-	- [KMP Algorithm]()
